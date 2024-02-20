@@ -1,3 +1,5 @@
 ### Small Website
-## Displays the Layout of the website with some styles
-Made using HTML and CSS
+
+This project displays the Layout of the website with some styles.
+
+It is made using HTML and CSS.
